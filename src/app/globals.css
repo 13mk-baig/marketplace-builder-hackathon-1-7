@@ -1,0 +1,12 @@
+
+/* src/app/styles/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  
+    @apply bg-gray-50 font-sans;
+  
+}
